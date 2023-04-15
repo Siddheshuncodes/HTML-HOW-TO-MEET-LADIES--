@@ -154,11 +154,11 @@ section{
 }
 
 .scroll-indicator-bar{
-    background: #199fff;
+    background: #ff0a54;
     width: 0%;
     height: 100%;
-    box-shadow: 0 5px 25px #199fff,
-                0 5px 50px #199fff;
+    box-shadow: 0 5px 25px #ff0a54,
+                0 5px 50px #ff0a54;
 }
 
 .nav-close-btn, .nav-menu-btn{
